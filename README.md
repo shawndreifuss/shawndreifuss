@@ -24,6 +24,6 @@ Hi there! I'm Shawn Dreifuss, a passionate Full Stack Developer with a knack for
 
 # 💻 Current Work in Progress:
 
-[Untitled_ Feb 1, 2024 2_16 PM.webm](https://github.com/shawndreifuss/shawndreifuss/assets/142850345/95d5eb10-7f15-4228-af74-87e0f494e846)
+[E-commerce-react](https://github.com/shawndreifuss/shawndreifuss/assets/142850345/95d5eb10-7f15-4228-af74-87e0f494e846)
 
 
